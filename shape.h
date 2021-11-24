@@ -8,7 +8,7 @@ enum color
 { 
   black = '*', 
   white = '.' 
-};
+}; 
 
 void screen_init( )
 {
